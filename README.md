@@ -39,7 +39,7 @@ module.exports = function(environment) {
       'Merriweather:400,700,900',
       'Roboto:300'
     ]
-  }
+  };
   return ENV;
 }
 ```
