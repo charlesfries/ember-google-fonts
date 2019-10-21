@@ -2,7 +2,7 @@
 
 ## Installation
 
-* `git clone <repository-url>`
+* `git clone https://github.com/charlesfries/ember-google-fonts`
 * `cd ember-google-fonts`
 * `npm install`
 
