@@ -18,7 +18,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-npm install --save-dev https://github.com/charlesfries/ember-google-fonts
+ember install ember-google-fonts
 ```
 
 
@@ -34,7 +34,7 @@ module.exports = function(environment) {
 
     googleFonts: [
       'Merriweather:400,700,900',
-      'Roboto:300'
+      'Roboto'
     ]
   };
   return ENV;
