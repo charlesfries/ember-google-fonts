@@ -1,7 +1,9 @@
 ember-google-fonts
 ==============================================================================
 
-[Short description of the addon.]
+Automatically import Google Fonts into your Ember application.
+
+This addon will add a `<link>` tag to the `content-for "head"` target in your app's `index.html` file.
 
 
 Compatibility
