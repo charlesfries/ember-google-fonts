@@ -19,8 +19,6 @@ Installation
 
 ```
 npm install --save-dev https://github.com/charlesfries/ember-google-fonts
-
-ember install ember-google-fonts
 ```
 
 
