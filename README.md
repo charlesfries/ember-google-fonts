@@ -25,7 +25,21 @@ ember install ember-google-fonts
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+```javascript
+// config/environment.js
+
+module.exports = function(environment) {
+  let ENV = {
+    /* your config */
+
+    googleFonts: [
+      'Merriweather:400,700,900',
+      'Roboto:300'
+    ]
+  }
+  return ENV;
+}
+```
 
 
 Contributing
